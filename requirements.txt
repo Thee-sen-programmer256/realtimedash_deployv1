@@ -1,0 +1,8 @@
+pyarrow
+streamlit
+pandas
+numpy
+plotly
+streamlit_autorefresh
+faker
+
